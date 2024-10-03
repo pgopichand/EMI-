@@ -1,10 +1,5 @@
 # EMI-
 EMI calculation
-\name{EMI Calculation Program}
-\alias{EMI Calculation Program}
-
-\title{EMI Calculation Program}
-\details{
 
 This tool will help users to calculate EMI(equated monthly instalments). To know the EMI, user has to 
 provide the principle amount, monthly interest rate (Example monthly intrest as 1 for 12 percent per annum 
